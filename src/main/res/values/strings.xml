@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ejercicio12</string>
+    <string name="texto1">Soy el 1</string>
+    <string name="texto2">arriba!!!!</string>
+    <string name="texto3">Arr Derecha</string>
+    <string name="texto4">Aqui solito</string>
+    <string name="texto5">Casi acabo</string>
+    <string name="texto6">EL ultimo</string>
+    <string name="pmm">PMM</string>
+    <string name="acerca">Acerca de mí</string>
+    <string name="galVideos">Galería de videos</string>
+    <string name="videos">Vídeos</string>
+    <string name="volver">Volver</string>
+    <string name="telefono">Teléfono</string>
+    <string name="descripcion">Descripción</string>
+    <string name="ok">OK</string>
+    <string name="conectar">Conectar</string>
+    <string name="correo">Correo</string>
+    <string name="correoEx">correo@email.com</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="iniciarSesion">Iniciar Sesión</string>
+    <string name="olvidaste">¿Olvidaste tu contraseña?</string>
+    <string name="hintPass">***********</string>
+</resources>
